@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.mitrais.service2"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "microservice",
+    "baseName": "mitraisservice2",
+    "packageName": "com.mitrais.service2",
+    "packageFolder": "com/mitrais/service2",
+    "serverPort": "8082",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZmRiNjM5YmM2ZTZlMzJkMjBhZmEzMGJhZDkyMmYwZTcyODBiYWQ0YjY1OTcyOWM1MWY4ZDI1YzIxNTZlNGMzNDgyOWFmMjBhZWU4MGE0ZWZhMWExMGQxODA2NTFlMjQ3ZjY3ZGZkNGY0NDkxYTE1ZGQ0ZWY5MzJjM2IwM2U3MDU=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1597179483139,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
